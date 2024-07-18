@@ -1,0 +1,17 @@
+{
+  "id": "reblx",
+  "name": "Reblx Clock",
+  "shortName": "Reblx",
+  "version": "0.04",
+  "description": "A fork of Rebble Clock with only one view and a single design",
+  "readme": "README.md",
+  "icon": "reblx.png",
+  "screenshots": [{"url":"screenshot_reblx.png"}],
+  "type": "clock",
+  "tags": "clock",
+  "supports": ["BANGLEJS2"],
+  "storage": [
+    {"name":"reblx.app.js","url":"reblx.app.js"},
+    {"name":"reblx.img","url":"reblx.icon.js","evaluate":true}
+  ]
+}
