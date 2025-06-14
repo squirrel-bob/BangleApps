@@ -1,3 +1,5 @@
+https://squirrel-bob.github.io/BangleApps/
+
 Bangle.js App Loader (and Apps)
 ================================
 
